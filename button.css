@@ -1,0 +1,12 @@
+.custom-button {
+    background-color: #e60026!important; /* Dark blue background color */
+    color: #ffffff; /* White text color */
+    border: none; /* No border */
+    padding: 5px 20px; /* Padding around text */
+    font-size: 16px; /* Text size */
+    cursor: pointer; /* Show hand cursor on hover */
+  }
+  
+  .custom-button:hover {
+    background-color: #1565c0; /* Darker blue on hover */
+  }
